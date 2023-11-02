@@ -1,0 +1,58 @@
+COMPONENTES DE POWER PLATFORM
+    ORIGENES DE DATOS
+        DATOS TABULARES 
+            Provenientes de bases de datos tales como dataverse, sql server o SharePoint
+
+        DATOS BASADOS EN FUNCIONES:
+            Funciones que pueden retornar tablas o bien, actualizar informacion
+
+    TIPOS DE CONECTORES
+        ESTANDAR
+            SharePoint, Outlook y YouTube
+        PREMIUM
+            SQL Server, Survey Monkey y Mail Chimp
+        PERSONALIZADOS
+            Se usan para consumir apis propias, en caso de que se requiera algo adicional que los 900 conectores de base no puedan proporcionar
+
+    Todas las soluciones empresariales de Microsoft Power Platform se pueden usar e implementar en aplicaciones de Microsoft 365, como Teams
+
+    TIPOS DE OPERACIONES
+        DESENCADENADORES
+            Son como los eventos en programacion y solo se utilizan en power automate
+        ACCIONES
+            Son solicitadas por un usuario o por un Desencadenador
+
+POWER APPS
+    TIPOS DE APLICACIONES QUE SE PUEDEN CREAR
+        Lienzo
+            aplicaciones personalizadas y diseñadas para tareas especificas
+            interactuan con datos de multiples origenes
+            se pueden utilizar formulas de Powe FX
+            poseen formulas muy similares a las de excel
+            son faciles de crear a partir de datos ya existentes
+            el creador tiene control sobre el origen de los datos
+            orientadas al cliente o usuario
+            
+            CARACTERISTICAS DIFERENCIADORAS CON RESPECTO A LAS APLICACIONES DE MODELOS
+                No basada en dataverse
+                Centrada en tarea o pantalla
+                interfaz de usuario personalizada
+                integracion de dispositivos
+                se inserta con facilidad
+            
+        Modelos
+            siempre se crean a partir de datos en Microsoft dataverse
+            utilizan un modelo que prioriza los datos
+            se centra en agregar componentes como formularios, vistas, gráficos y paneles de información
+            se utilizan como aplicaciones de gestion
+            orientadas al administrador o director, para actividades como realizar seguimientos con datos
+            
+            CARACTERISTICAS DIFERENCIADORAS CON RESPECTO A LAS APLICACIONES DE            
+                Basada en dataverse
+                centrada en procesos u operaciones administrativas
+                interfaz de usuario con capacidades de respuesta/ uninforme
+                personalizacion de usuario
+                navegacion de relaciones de datos
+                recote de seguridad de la interfaz de usuario
+                
+
