@@ -55,4 +55,4 @@ POWER APPS
                 navegacion de relaciones de datos
                 recote de seguridad de la interfaz de usuario
                 
-
+        las aplicaciones de modelos sirven para gestionar y organizar a las aplicaciones de lienzo, y mientras que las aplicaciones de lienzo sirven para satisfacer las necesidades del cliente, las de modelos, se encargar de producir informes para que los administradores tomen decisiones en consecuencia de los resultados que se presenten
